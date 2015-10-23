@@ -34,7 +34,7 @@ so many drugs are eliminate of organism by this transporter family.
  
  #And see the producto of analysis
  
- ![image](Captura_de_pantalla_2015-10-22_a_la_11.42.08)
+ ![image](Captura_de_pantalla_2015-10-22_a_la_11.42.08.png)
  
  ##and we have  the mach
  
