@@ -9,7 +9,9 @@ In the family of SLCO we found so many numers of protein transportarion of solut
 so many drugs are eliminate of organism by this transporter family.
 
 
-####this gen is very important!#my step list
+####this gen is very important!
+
+#my step list
 
 #first i will get de data base.
 
