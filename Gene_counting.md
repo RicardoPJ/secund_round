@@ -15,6 +15,6 @@ The term macromolecular assembly refers to massive chemical structures: such as 
 
 The complexes of macromolecules That Referred to  are Occur ubiquitously in nature, Where They are Involved in the construction of all living cells and viruses. In Addition, They play key roles in all basic life Processes (protein translation, cell division, vesicle trafficking, intra- and inter-cellular compartments Between exchange of materials, etc.). In each of These roles, complex Mixtures of Become organized in specific structural and spatial ways.
 
-![image](gene_counting.png)
+![image](gene_counting2.png)
 
 
